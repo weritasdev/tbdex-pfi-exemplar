@@ -1,9 +1,4 @@
-dist
-node_modules/
-.env
-.DS_STORE
-alice.json
-issuer.json
-pfi.json
-DATASTORE
-*.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
